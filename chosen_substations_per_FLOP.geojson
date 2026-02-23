@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "chosen_substations_per_FLOP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "Major FLOP": "A" }, "geometry": { "type": "Point", "coordinates": [ 520988.08452717110049, 183227.706777254410554 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "B" }, "geometry": { "type": "Point", "coordinates": [ 478193.695029260532465, 150686.890627547923941 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "C" }, "geometry": { "type": "Point", "coordinates": [ 590897.695154112996534, 166669.579051391978282 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "D" }, "geometry": { "type": "Point", "coordinates": [ 503087.304341524140909, 227113.072443094919436 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "E" }, "geometry": { "type": "Point", "coordinates": [ 332272.540992642054334, 135748.539113082573749 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "F" }, "geometry": { "type": "Point", "coordinates": [ 240908.492839967482723, 62865.52107608426013 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "G" }, "geometry": { "type": "Point", "coordinates": [ 389659.444068271375727, 165895.491459330252837 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "H" }, "geometry": { "type": "Point", "coordinates": [ 264527.690836781752296, 200069.185644710727502 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "J" }, "geometry": { "type": "Point", "coordinates": [ 557816.965432573691942, 267165.958941814838909 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "K" }, "geometry": { "type": "Point", "coordinates": [ 475864.659179739945102, 353903.277373510063626 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "L" }, "geometry": { "type": "Point", "coordinates": [ 397858.584588428027928, 293681.411565298039932 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "M" }, "geometry": { "type": "Point", "coordinates": [ 268953.689443871495314, 338624.253315960988402 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "N" }, "geometry": { "type": "Point", "coordinates": [ 376304.584109973860905, 404652.857508192304522 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "P" }, "geometry": { "type": "Point", "coordinates": [ 466530.409796495863702, 426646.751856802613474 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "Q" }, "geometry": { "type": "Point", "coordinates": [ 389674.569630188751034, 568616.482020091847517 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "R" }, "geometry": { "type": "Point", "coordinates": [ 356362.825608102080878, 489361.307526647578925 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "S" }, "geometry": { "type": "Point", "coordinates": [ 282515.013439287547953, 637627.342576045193709 ] } },
+{ "type": "Feature", "properties": { "Major FLOP": "T" }, "geometry": { "type": "Point", "coordinates": [ 235795.070957173127681, 808394.993472933652811 ] } }
+]
+}
